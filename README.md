@@ -48,7 +48,21 @@
         new file:   frontend/src/setupTests.js
         new file:   frontend/yarn.lock
 
-2.2 Reach-Bootstrap Setup, Header & Footer Components
+### 2.2.1 Creating Header & Footer Components
+
+        modified:   .gitignore
+        modified:   README.md
+        deleted:    frontend/.gitignore
+        deleted:    frontend/README.md
+        deleted:    frontend/src/App.css
+        modified:   frontend/src/App.js
+        deleted:    frontend/src/App.test.js
+        new file:   frontend/src/components/Footer.js
+        new file:   frontend/src/components/Header.js
+        modified:   frontend/src/index.css
+
+2.2.2 Reach-Bootstrap Setup, Header & Footer Components
+
 2.3 HomeScreen Product Listing
 2.4 Rating Component
 2.5 Implementing React Router
