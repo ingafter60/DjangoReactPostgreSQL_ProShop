@@ -61,7 +61,13 @@
         new file:   frontend/src/components/Header.js
         modified:   frontend/src/index.css
 
-2.2.2 Reach-Bootstrap Setup, Header & Footer Components
+### 2.2.2 Installing Reach-Bootstrap
+
+        modified:   README.md
+        new file:   frontend/package-lock.json
+        modified:   frontend/package.json
+        new file:   frontend/src/bootstrap.min.css
+        modified:   frontend/src/index.js
 
 2.3 HomeScreen Product Listing
 2.4 Rating Component
