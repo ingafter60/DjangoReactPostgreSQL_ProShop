@@ -105,6 +105,11 @@
         modified:   frontend/src/App.js
         new file:   frontend/src/screens/HomeScreen.js
 
+### 2.3.2 HomeScreen Product Listing - Loading List of Product Names to Homescreen
+
+        modified:   README.md
+        modified:   frontend/src/screens/HomeScreen.js
+
 2.4 Rating Component
 2.5 Implementing React Router
 
