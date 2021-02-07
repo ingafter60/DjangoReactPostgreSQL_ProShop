@@ -74,6 +74,13 @@
         modified:   README.md
         modified:   frontend/src/App.js
 
+### 2.2.4 Styling the components
+
+        modified:   README.md
+        modified:   frontend/src/App.js
+        modified:   frontend/src/components/Footer.js
+        modified:   frontend/src/index.css
+
 2.3 HomeScreen Product Listing
 2.4 Rating Component
 2.5 Implementing React Router
