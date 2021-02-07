@@ -99,6 +99,12 @@
         new file:   frontend/public/images/sample.jpg
         new file:   frontend/src/products.js
 
+### 2.3.2 HomeScreen Product Listing - Creating and Loading Homescreen (Homepage)
+
+        modified:   README.md
+        modified:   frontend/src/App.js
+        new file:   frontend/src/screens/HomeScreen.js
+
 2.4 Rating Component
 2.5 Implementing React Router
 
