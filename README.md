@@ -69,6 +69,11 @@
         new file:   frontend/src/bootstrap.min.css
         modified:   frontend/src/index.js
 
+### 2.2.3 Using Reach-Bootstrap
+
+        modified:   README.md
+        modified:   frontend/src/App.js
+
 2.3 HomeScreen Product Listing
 2.4 Rating Component
 2.5 Implementing React Router
