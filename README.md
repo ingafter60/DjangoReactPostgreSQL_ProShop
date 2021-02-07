@@ -122,6 +122,12 @@
         modified:   frontend/src/components/Product.js
         modified:   frontend/src/screens/HomeScreen.js
 
+### 2.3.4 HomeScreen Product Listing - Using Pros to passing product properties (image) to Homescreen
+
+        modified:   README.md
+        modified:   frontend/src/components/Product.js
+        modified:   frontend/src/screens/HomeScreen.js
+
 2.4 Rating Component
 2.5 Implementing React Router
 
