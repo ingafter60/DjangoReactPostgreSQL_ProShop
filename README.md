@@ -1,6 +1,6 @@
 # BUILDING ECOMMERCE WEB APP USING DJANGO, REACT AND GRAPHQL
 
-## 1. Section 1: Introduction
+## 1. SECTION 1: INTRODUCTION
 
 ### 1.1 Introduction
 
@@ -18,7 +18,7 @@
 
         PASSED
 
-2. Section 2: Starting The Front End
+## 2. SECTION 2: STARTING THE FRONTEND
 
 ### 2.0 Initial setup
 
@@ -86,7 +86,19 @@
         modified:   README.md
         modified:   frontend/src/components/Header.js
 
-2.3 HomeScreen Product Listing
+### 2.3.1 HomeScreen Product Listing - Adding Product Arrays and Product Images
+
+        modified:   README.md
+        modified:   frontend/public/favicon.ico
+        new file:   frontend/public/images/airpods.jpg
+        new file:   frontend/public/images/alexa.jpg
+        new file:   frontend/public/images/camera.jpg
+        new file:   frontend/public/images/mouse.jpg
+        new file:   frontend/public/images/phone.jpg
+        new file:   frontend/public/images/playstation.jpg
+        new file:   frontend/public/images/sample.jpg
+        new file:   frontend/src/products.js
+
 2.4 Rating Component
 2.5 Implementing React Router
 
