@@ -81,6 +81,11 @@
         modified:   frontend/src/components/Footer.js
         modified:   frontend/src/index.css
 
+### 2.2.5 Adding Navbar
+
+        modified:   README.md
+        modified:   frontend/src/components/Header.js
+
 2.3 HomeScreen Product Listing
 2.4 Rating Component
 2.5 Implementing React Router
