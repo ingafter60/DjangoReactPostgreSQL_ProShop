@@ -110,6 +110,12 @@
         modified:   README.md
         modified:   frontend/src/screens/HomeScreen.js
 
+### 2.3.3 HomeScreen Product Listing - Creating and Passing Product component to Homescreen
+
+        modified:   README.md
+        new file:   frontend/src/components/Product.js
+        modified:   frontend/src/screens/HomeScreen.js
+
 2.4 Rating Component
 2.5 Implementing React Router
 
