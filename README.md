@@ -284,6 +284,14 @@
         modified:   backend/config/__pycache__/urls.cpython-39.pyc
         modified:   backend/config/settings.py
 
+### 3.2.11 REST API - Showing Single Products (static)
+
+        modified:   README.md
+        modified:   backend/base/__pycache__/urls.cpython-39.pyc
+        modified:   backend/base/__pycache__/views.cpython-39.pyc
+        modified:   backend/base/urls.py
+        modified:   backend/base/views.py
+
 3.3 Fetching Data
 3.4 Database Setup & Admin Panel
 3.5 Modeling Our Data
