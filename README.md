@@ -150,6 +150,11 @@
         modified:   frontend/src/index.css
         modified:   frontend/src/screens/HomeScreen.js
 
+### 2.4.2 Rating Component - Using Pros to passing product properties (5 star rating ) to Homescreen
+
+        modified:   README.md
+        modified:   frontend/src/components/Rating.js
+
 2.5 Implementing React Router
 
 3. Section 3: Serving & Fetching Data From Django
