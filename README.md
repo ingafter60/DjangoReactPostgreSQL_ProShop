@@ -261,6 +261,16 @@
         modified:   backend/base/__pycache__/views.cpython-39.pyc
         modified:   backend/base/views.py
 
+### 3.2.8 Loading Products List from Product Dictionaries
+
+        modified:   README.md
+        new file:   backend/base/__pycache__/products.cpython-39.pyc
+        modified:   backend/base/__pycache__/urls.cpython-39.pyc
+        modified:   backend/base/__pycache__/views.cpython-39.pyc
+        new file:   backend/base/products.py
+        modified:   backend/base/urls.py
+        modified:   backend/base/views.py
+
 3.3 Fetching Data
 3.4 Database Setup & Admin Panel
 3.5 Modeling Our Data
