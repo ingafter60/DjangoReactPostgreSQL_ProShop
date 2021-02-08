@@ -16,7 +16,12 @@ function Product({ product_properties }) {
             <strong>{product_properties.name}</strong>
           </Card.Title>
         </a>
-
+        <Card.Text as="div">
+          <div className="my-3">
+            {product_properties.rating} from {product_properties.numReviews}
+            reviews
+          </div>
+        </Card.Text>
         <Card.Text as="h3">${product_properties.price}</Card.Text>
       </Card.Body>
     </Card>
