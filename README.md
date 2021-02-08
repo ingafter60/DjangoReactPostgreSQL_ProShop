@@ -245,7 +245,15 @@
         modified:   backend/config/__pycache__/settings.cpython-39.pyc
         modified:   backend/config/settings.py
 
-3.2.6 Using Views, Template, Route to render 'Hello World!'
+### 3.2.6 Using Views, Template, Route to render 'Hello World!'
+
+        modified:   README.md
+        new file:   backend/base/__pycache__/urls.cpython-39.pyc
+        new file:   backend/base/__pycache__/views.cpython-39.pyc
+        new file:   backend/base/urls.py
+        modified:   backend/base/views.py
+        modified:   backend/config/__pycache__/urls.cpython-39.pyc
+        modified:   backend/config/urls.py
 
 3.3 Fetching Data
 3.4 Database Setup & Admin Panel
