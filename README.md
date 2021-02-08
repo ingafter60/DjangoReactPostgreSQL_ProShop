@@ -181,6 +181,11 @@
         modified:   README.md
         modified:   frontend/src/screens/ProductScreenSingle.js
 
+### 2.6.3 Product Details Screen - Adding link 'Go Back ' to homepage
+
+        modified:   README.md
+        modified:   frontend/src/screens/ProductScreenSingle.js
+
 3. Section 3: Serving & Fetching Data From Django
 
 3.1 FrontendBackend Workflow
