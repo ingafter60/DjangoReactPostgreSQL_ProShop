@@ -155,7 +155,10 @@
         modified:   README.md
         modified:   frontend/src/components/Rating.js
 
-2.5 Implementing React Router
+### 2.5.1 Implementing React Router - Adding Home Route
+
+        modified:   README.md
+        modified:   frontend/src/App.js
 
 3. Section 3: Serving & Fetching Data From Django
 
