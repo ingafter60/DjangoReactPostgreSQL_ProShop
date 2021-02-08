@@ -176,6 +176,11 @@
         modified:   README.md
         modified:   frontend/src/screens/ProductScreenSingle.js
 
+### 2.6.2 Product Details Screen - Displaying product image
+
+        modified:   README.md
+        modified:   frontend/src/screens/ProductScreenSingle.js
+
 3. Section 3: Serving & Fetching Data From Django
 
 3.1 FrontendBackend Workflow
