@@ -271,6 +271,8 @@
         modified:   backend/base/urls.py
         modified:   backend/base/views.py
 
+### 3.2.9 Django REST framework Installation
+
 3.3 Fetching Data
 3.4 Database Setup & Admin Panel
 3.5 Modeling Our Data
