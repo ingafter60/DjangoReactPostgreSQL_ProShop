@@ -218,7 +218,14 @@
         new file:   backend/config/wsgi.py
         new file:   backend/manage.py
 
-3.2.4 Creating django app 'base'
+### 3.2.4 Run server for the first time to test the project
+
+        modified:   README.md
+        new file:   backend/config/__pycache__/__init__.cpython-39.pyc
+        new file:   backend/config/__pycache__/settings.cpython-39.pyc
+        new file:   backend/config/__pycache__/urls.cpython-39.pyc
+        new file:   backend/config/__pycache__/wsgi.cpython-39.pyc
+        new file:   backend/db.sqlite3
 
 3.2.5 Creating django app 'base'
 
