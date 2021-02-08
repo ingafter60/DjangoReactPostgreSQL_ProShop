@@ -208,13 +208,23 @@
 
         modified:   README.md
 
-3.2.3 Creating django project 'backend'
+### 3.2.3 Creating django project 'config'
+
+        modified:   README.md
+        new file:   backend/config/__init__.py
+        new file:   backend/config/asgi.py
+        new file:   backend/config/settings.py
+        new file:   backend/config/urls.py
+        new file:   backend/config/wsgi.py
+        new file:   backend/manage.py
 
 3.2.4 Creating django app 'base'
 
-3.2.5 Registering base app to the django project
+3.2.5 Creating django app 'base'
 
-3.2.6 Using Views, Template, Route to render 'Hello World!'
+3.2.6 Registering base app to the django project
+
+3.2.7 Using Views, Template, Route to render 'Hello World!'
 
 3.3 Fetching Data
 3.4 Database Setup & Admin Panel
