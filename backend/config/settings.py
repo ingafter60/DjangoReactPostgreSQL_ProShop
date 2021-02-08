@@ -40,9 +40,9 @@ INSTALLED_APPS = [
     
     # new
     'rest_framework',
-    'base.apps.BaseConfig', 
-
+    'base.apps.BaseConfig',
 ]
+
 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',

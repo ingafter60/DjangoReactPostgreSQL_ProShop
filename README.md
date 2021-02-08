@@ -273,6 +273,17 @@
 
 ### 3.2.9 Django REST framework Installation
 
+### 3.2.10 REST API - Showing List of Products (static)
+
+        modified:   README.md
+        modified:   backend/base/__pycache__/urls.cpython-39.pyc
+        modified:   backend/base/__pycache__/views.cpython-39.pyc
+        modified:   backend/base/urls.py
+        modified:   backend/base/views.py
+        modified:   backend/config/__pycache__/settings.cpython-39.pyc
+        modified:   backend/config/__pycache__/urls.cpython-39.pyc
+        modified:   backend/config/settings.py
+
 3.3 Fetching Data
 3.4 Database Setup & Admin Panel
 3.5 Modeling Our Data
