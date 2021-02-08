@@ -191,10 +191,29 @@
         modified:   README.md
         modified:   frontend/src/screens/ProductScreenSingle.js
 
-3. Section 3: Serving & Fetching Data From Django
+## 3. SECTION 3: SERVING & FETCHING DATA FROM DJANGO
 
-3.1 FrontendBackend Workflow
-3.2 Building The Backend
+### 3.1 FrontendBackend Workflow
+
+        PASSED
+
+## 3.2 Building The Backend
+
+### 3.2.1 Creating isolated virtual environment
+
+        modified:   .gitignore
+        modified:   README.md
+
+3.2.2 Installing django v3.1.4
+
+3.2.3 Creating django project 'backend'
+
+3.2.4 Creating django app 'base'
+
+3.2.5 Registering base app to the django project
+
+3.2.6 Using Views, Template, Route to render 'Hello World!'
+
 3.3 Fetching Data
 3.4 Database Setup & Admin Panel
 3.5 Modeling Our Data
