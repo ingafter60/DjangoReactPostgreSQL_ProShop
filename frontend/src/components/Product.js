@@ -1,7 +1,7 @@
-// src/components/Product.js
-
+// components/Product.js
 import React from 'react'
 import { Card } from 'react-bootstrap'
+import Rating from './Rating'
 
 function Product({ product_properties }) {
   return (
@@ -9,7 +9,6 @@ function Product({ product_properties }) {
       <a href={`/product/${product_properties._id}`}>
         <Card.Img src={product_properties.image} />
       </a>
-
       <Card.Body>
         <a href={`/product/${product_properties._id}`}>
           <Card.Title as="div">
@@ -18,10 +17,14 @@ function Product({ product_properties }) {
         </a>
         <Card.Text as="div">
           <div className="my-3">
-            {product_properties.rating} from {product_properties.numReviews}
-            reviews
+            <Rating
+              value={product_properties.rating}
+              text={`${product_properties.numReviews} reviews`}
+              color={'#f8e825'}
+            />
           </div>
         </Card.Text>
+
         <Card.Text as="h3">${product_properties.price}</Card.Text>
       </Card.Body>
     </Card>
