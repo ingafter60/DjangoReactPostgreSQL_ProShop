@@ -227,11 +227,25 @@
         new file:   backend/config/__pycache__/wsgi.cpython-39.pyc
         new file:   backend/db.sqlite3
 
-3.2.5 Creating django app 'base'
+### 3.2.5 Creating django app 'base' and register it to the project
 
-3.2.6 Registering base app to the django project
+        modified:   README.md
+        new file:   backend/base/__init__.py
+        new file:   backend/base/__pycache__/__init__.cpython-39.pyc
+        new file:   backend/base/__pycache__/admin.cpython-39.pyc
+        new file:   backend/base/__pycache__/apps.cpython-39.pyc
+        new file:   backend/base/__pycache__/models.cpython-39.pyc
+        new file:   backend/base/admin.py
+        new file:   backend/base/apps.py
+        new file:   backend/base/migrations/__init__.py
+        new file:   backend/base/migrations/__pycache__/__init__.cpython-39.pyc
+        new file:   backend/base/models.py
+        new file:   backend/base/tests.py
+        new file:   backend/base/views.py
+        modified:   backend/config/__pycache__/settings.cpython-39.pyc
+        modified:   backend/config/settings.py
 
-3.2.7 Using Views, Template, Route to render 'Hello World!'
+3.2.6 Using Views, Template, Route to render 'Hello World!'
 
 3.3 Fetching Data
 3.4 Database Setup & Admin Panel
