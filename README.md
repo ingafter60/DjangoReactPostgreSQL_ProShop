@@ -166,6 +166,11 @@
         modified:   frontend/src/App.js
         new file:   frontend/src/screens/ProductScreenSingle.js
 
+### 2.5.3 Implementing React Router - Adding Route for Navbar
+
+        modified:   README.md
+        modified:   frontend/src/components/Header.js
+
 3. Section 3: Serving & Fetching Data From Django
 
 3.1 FrontendBackend Workflow
