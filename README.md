@@ -204,7 +204,9 @@
         modified:   .gitignore
         modified:   README.md
 
-3.2.2 Installing django v3.1.4
+### 3.2.2 Installing django v3.1.4
+
+        modified:   README.md
 
 3.2.3 Creating django project 'backend'
 
