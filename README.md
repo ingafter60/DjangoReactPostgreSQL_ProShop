@@ -186,6 +186,11 @@
         modified:   README.md
         modified:   frontend/src/screens/ProductScreenSingle.js
 
+### 2.6.4 Product Details Screen - Outputing more product information, conditional for product stock
+
+        modified:   README.md
+        modified:   frontend/src/screens/ProductScreenSingle.js
+
 3. Section 3: Serving & Fetching Data From Django
 
 3.1 FrontendBackend Workflow
