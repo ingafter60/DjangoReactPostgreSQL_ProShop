@@ -294,7 +294,7 @@
 
 ## 3.3 Fetching Data
 
-## 3.3.1 Install Django Cors Headers to make Proxy URL
+### 3.3.1 Install Django Cors Headers to make Proxy URL
 
         modified:   README.md
         modified:   backend/config/__pycache__/settings.cpython-39.pyc
@@ -303,13 +303,26 @@
         modified:   frontend/package.json
         modified:   frontend/src/screens/HomeScreen.js
 
-## 3.3.2 Making Dynamic URL and Get Product from the Backend
+### 3.3.2 Making Dynamic URL and Get Product from the Backend
 
         modified:   README.md
         modified:   frontend/src/screens/ProductScreenSingle.js
 
-3.4 Database Setup & Admin Panel
-3.5 Modeling Our Data
+### 3.4 Database Setup & Admin Panel
+
+        Created superuser
+
+### 3.5 Modeling Our Data
+
+        modified:   README.md
+        modified:   backend/base/__pycache__/admin.cpython-39.pyc
+        modified:   backend/base/__pycache__/models.cpython-39.pyc
+        modified:   backend/base/admin.py
+        new file:   backend/base/migrations/0001_initial.py
+        new file:   backend/base/migrations/__pycache__/0001_initial.cpython-39.pyc
+        modified:   backend/base/models.py
+        modified:   backend/db.sqlite3
+
 3.6 Product Image Field
 3.7 Static Files
 3.8 Serializing Data
