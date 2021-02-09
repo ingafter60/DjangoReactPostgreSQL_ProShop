@@ -312,7 +312,9 @@
 
         Created superuser
 
-### 3.5 Modeling Our Data
+## 3.5 Modeling Our Data
+
+### 3.5.1 Creating Product model
 
         modified:   README.md
         modified:   backend/base/__pycache__/admin.cpython-39.pyc
@@ -320,6 +322,17 @@
         modified:   backend/base/admin.py
         new file:   backend/base/migrations/0001_initial.py
         new file:   backend/base/migrations/__pycache__/0001_initial.cpython-39.pyc
+        modified:   backend/base/models.py
+        modified:   backend/db.sqlite3
+
+### 3.5.2 Creating Reviews, Order, OrderItem and ShippingAddress models
+
+        modified:   README.md
+        modified:   backend/base/__pycache__/admin.cpython-39.pyc
+        modified:   backend/base/__pycache__/models.cpython-39.pyc
+        modified:   backend/base/admin.py
+        new file:   backend/base/migrations/0002_order_orderitem_review_shippingaddress.py
+        new file:   backend/base/migrations/__pycache__/0002_order_orderitem_review_shippingaddress.cpython-39.pyc
         modified:   backend/base/models.py
         modified:   backend/db.sqlite3
 
