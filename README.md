@@ -303,6 +303,11 @@
         modified:   frontend/package.json
         modified:   frontend/src/screens/HomeScreen.js
 
+## 3.3.2 Making Dynamic URL and Get Product from the Backend
+
+        modified:   README.md
+        modified:   frontend/src/screens/ProductScreenSingle.js
+
 3.4 Database Setup & Admin Panel
 3.5 Modeling Our Data
 3.6 Product Image Field

@@ -1,13 +1,34 @@
 // src/screens/ProductScreenSingle.js
 
-import React from 'react'
+// import React from 'react'
+import React, { useState, useEffect } from 'react'
 import { Link } from 'react-router-dom'
 import { Row, Col, Image, ListGroup, Button, Card } from 'react-bootstrap'
-import products from '../products'
+// import products from '../products'
 import Rating from '../components/Rating'
+import axios from 'axios'
 
 function ProductScreenSingle({ match }) {
-  const product = products.find((p) => p._id === match.params.id)
+
+  // const product = products.find((p) => p._id === match.params.id)
+
+  // my note: set state of products, and use setProducts metdod = value of use state
+  const [product, setProduct] = useState([])
+
+  useEffect(() => {
+    async function fetchProduct() {
+
+      // const { data } = await axios.get('http://127.0.0.1:8000/api/products/')
+      const { data } = await axios.get(`/api/products/${match.params.id}`)
+
+      // pass data when get api called
+      setProduct(data)
+    }
+
+    // make a call and load the data
+    fetchProduct()
+  }, [])
+
   return (
     <div>
       <Link to="/" className="btn btn-light my-3">
