@@ -292,7 +292,17 @@
         modified:   backend/base/urls.py
         modified:   backend/base/views.py
 
-3.3 Fetching Data
+## 3.3 Fetching Data
+
+## 3.3.1 Install Django Cors Headers to make Proxy URL
+
+        modified:   README.md
+        modified:   backend/config/__pycache__/settings.cpython-39.pyc
+        modified:   backend/config/settings.py
+        modified:   frontend/package-lock.json
+        modified:   frontend/package.json
+        modified:   frontend/src/screens/HomeScreen.js
+
 3.4 Database Setup & Admin Panel
 3.5 Modeling Our Data
 3.6 Product Image Field
